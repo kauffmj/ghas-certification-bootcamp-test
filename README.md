@@ -8,16 +8,14 @@ To participate in the bootcamp you need a GitHub account. You should create a fo
 
 ## 🏫 Agenda
 
-We will go over the following topics:
-
-#### Secret scanning: [link](exercises/lab%202%20-%20secret-scanning.md)
-- [x] Enable secret scanning
-- [x] Commit a secret to the repository
-- [x] Review secrets that have been identified by secret scanning
-- [x] Close a secret scanning alert
-- [x] Enable secret scanning push protection to prevent secrets from being written to the repository
-- [x] Attempt to commit a secret, but have that commit stopped by push protection
-- [x] Bypass push protection
+You should complete the following tasks:
+- [ ] Enable secret scanning
+- [ ] Commit a secret to the repository
+- [ ] Review secrets that have been identified by secret scanning
+- [ ] Close a secret scanning alert
+- [ ] Enable secret scanning push protection to prevent secrets from being written to the repository
+- [ ] Attempt to commit a secret, but have that commit stopped by push protection
+- [ ] Bypass push protection
 
 ## :books: Resources
 - [About secret scanning](https://docs.github.com/en/github/administering-a-repository/about-secret-scanning)
