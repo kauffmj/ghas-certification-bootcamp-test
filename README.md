@@ -14,12 +14,12 @@ You should complete the following tasks:
       2. Copy the URL for this repository and open it in a new tab so you can complete this and the remaining steps while following the instructions in this README.
       3. Click on the "Settings" option toward the top of the page and then scroll down and click on "Code security" on the left-hand side of the page.
       4. Scroll down to the "Secret scanning" section and observe that a button is available for disabling this feature.
-- [ ] Commit a secret to the repository
-- [ ] Review secrets that have been identified by secret scanning
-- [ ] Close a secret scanning alert
-- [ ] Enable secret scanning push protection to prevent secrets from being written to the repository
-- [ ] Attempt to commit a secret, but have that commit stopped by push protection
-- [ ] Bypass push protection
+2. Commit a secret to the repository
+3. Review secrets that have been identified by secret scanning
+4. Close a secret scanning alert
+5. Enable secret scanning push protection to prevent secrets from being written to the repository
+6. Attempt to commit a secret, but have that commit stopped by push protection
+7. Bypass push protection
 
 ## :books: Resources
 - [About secret scanning](https://docs.github.com/en/github/administering-a-repository/about-secret-scanning)
