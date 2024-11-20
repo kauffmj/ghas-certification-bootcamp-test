@@ -9,7 +9,7 @@ To participate in the bootcamp you need a GitHub account. You should create a fo
 ## 🏫 Exercise
 
 You should complete the following tasks:
-- [ ] Enable secret scanning
+1. Enable secret scanning
       1. Understand that secret scanning does not need to be explicitly enabled since this is a public repository, and that the purpose of this step is to learn where the settings are so you can configure secret scanning for internal and private repositories if/when you obtain GHAS licenses.
       2. Copy the URL for this repository and open it in a new tab so you can complete this and the remaining steps while following the instructions in this README.
       3. Click on the "Settings" option toward the top of the page and then scroll down and click on "Code security" on the left-hand side of the page.
